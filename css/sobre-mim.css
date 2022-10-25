@@ -34,14 +34,15 @@
 }
 
 .description-text{
-    font-size: 1.3rem;
-    line-height: 5rem;
+    font-size: 1.5rem;
+    line-height: 150%;
 }
 
 .skills{
     grid-area: skills;
     display: flex;
     flex-direction: column;
+    gap: 32px;
 }
 .skills_title{
     font-size: 3rem;
@@ -62,7 +63,7 @@
     align-items: center;
     gap: 16px;
 }
-.skills_icons{
+.skills_icons i {
     font-size: 2.4rem;
 }
 .skills_icon{
