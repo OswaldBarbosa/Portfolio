@@ -49,12 +49,8 @@ footer{
     border-top: 2px solid #ffffff;
 }
 
-/* TABLET */
-@media (max-width: 900px){
+/*TABLET */
+@media (max-width: 960px){
 
 }
 
-/* MOBILE */
-@media (max-width: 640px){
-
-}
