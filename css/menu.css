@@ -24,15 +24,15 @@
     }  
 }
 
-/* MOBILE */
-@media (max-width:640px) {
-    header {
-        max-width: 640px;
-        width: 100%;
-        display: flex;
-        justify-content: space-between;
-    }
+/* NOTEBOOK */
+@media (max-width: 1200px) {
     .menu {
-        display: none;
-    }  
+        padding-right: 8rem;
+    }
 }
+
+/* TABLET */
+@media (max-width: 960px) {}
+
+/*  MOBILE */
+@media (max-width: 640px) {}

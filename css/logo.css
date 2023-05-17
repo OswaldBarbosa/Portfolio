@@ -14,3 +14,24 @@
     font-weight: 700;
     color: var(--primary-color);
 }
+
+/* NOTEBOOK */
+@media (max-width: 1200px) {
+    /* .logo {
+        padding-left: 13rem;
+    } */
+}
+
+/* TABLET */
+@media (max-width: 960px) {
+    .logo {
+        padding: 0;
+    }
+}
+
+/*  MOBILE */
+@media (max-width: 640px) {
+    .logo {
+        padding-left: 2rem;
+    }
+}
