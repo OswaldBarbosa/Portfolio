@@ -75,3 +75,83 @@
     font-size: 1.5rem;
     font-weight: 700;
 }
+
+.fa-html5 {
+    transition: .8s;
+}
+
+.fa-html5:hover {
+    transform: scale(1.2);
+    color: #E54D26;
+}
+
+.fa-css3-alt {
+    transition: .8s;
+}
+
+
+.fa-css3-alt:hover {
+    transform: scale(1.2);
+    color: #0074BE;
+}
+
+.fa-js {
+    transition: .8s;
+}
+
+.fa-js:hover {
+    transform: scale(1.2);
+    color: #F7DF1E;
+}
+
+.fa-react {
+    transition: .8s;
+}
+
+.fa-react:hover {
+    transform: scale(1.2);
+    color: #7ADDFC;
+}
+
+.fa-figma {
+    transition: .8s;
+}
+
+.fa-figma:hover {
+    transform: scale(1.2);
+}
+
+.fa-github {
+    transition: .8s;
+}
+
+.fa-github:hover {
+    transform: scale(1.2);
+    color: #000000;
+}
+
+.fa-node-js {
+    transition: .8s;
+}
+
+.fa-node-js:hover {
+    transform: scale(1.2);
+    color: #80BD41;
+}
+
+.fa-java {
+    transition: .8s;
+}
+
+.fa-java:hover {
+    transform: scale(1.2);
+}
+
+.fa-android {
+    transition: .8s;
+}
+
+.fa-android:hover {
+    transform: scale(1.2);
+    color: #2EDF85;
+}
